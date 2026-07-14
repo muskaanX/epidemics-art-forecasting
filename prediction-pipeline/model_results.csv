@@ -1,0 +1,9 @@
+drug_name,drug_type,spd_traditional,spd_arima,spd_timesfm,spd_timesfm_log,spd_arimafm_30,spd_arimafm_70
+AL,Adult,-3.58,12.42,12.79,11.6,15.64,10.17
+ZL,Adult,-6.18,13.73,-1.44,-0.39,19.15,11.78
+ATV,Adult,0.52,-21.4,6.88,-6.67,-10.02,-28.9
+DRV,Adult,5.37,-383.82,20.64,-55.07,-294.82,-346.35
+RTV Booster,Adult,11.21,2.0,0.86,-22.15,14.19,-2.09
+AL,Pediatric,74.48,1.93,-74.95,-52.47,11.37,-3.23
+ZL,Pediatric,28.63,13.08,-0.48,-15.24,22.59,8.96
+LPV 100_25,Pediatric,-5.98,-4.17,-7.35,-10.7,6.2,-29.75

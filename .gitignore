@@ -1,0 +1,12 @@
+# local environment
+.venv/
+
+# macOS specific
+.DS_Store
+
+# jupyter
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.py[cod]
